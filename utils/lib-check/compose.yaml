@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
     # List all files from `/lib64` into `al2-x64.txt`
     update-list:
